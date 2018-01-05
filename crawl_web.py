@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# author: tliu
+# author: BullFrog
 # update: 20180104
 
 import re
